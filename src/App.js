@@ -1,11 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+
+import MapView from './views/MapView'
 import './App.css';
 
 function App() {
+
   return (
-    <div className="App">
-     <p>holi consoli desde reactoli</p>
+    <div>
+        <Router basename={window.location.pathname || ""}>
+        {/*  <Route path  = "/" component = { MapView }/> */}
+        <Route path  = "/" component = { MapView }/>   
+        </Router>
     </div>
   );
 }
