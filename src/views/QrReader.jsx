@@ -26,7 +26,8 @@ export default class LectorQr extends Component {
             onScan={this.handleScan}
             style={{ width: '100%' }}
           />
-          <p>{this.state.result}</p>
+          <a href={this.state.result} target='_blank' rel="noopener noreferrer">{this.state.result}</a>
+          
         </div>
       )
     }
