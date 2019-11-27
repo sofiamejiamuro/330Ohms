@@ -28,3 +28,6 @@ Construyendo una red blockchain para IoT confiable que le permita agilizar el pr
 ¿COMO LO VAMOS A RESOLVER?
 
 Con una base de datos en la nube de IBM Helena podra consultar en cualquier momento y desde cualquier dispositivo la informacion.  A través de la web app 330 Ohms ella podrá generar una cotización rapidamente y enviar por correo el PDF generado con el fin de evitar perder una oportunidad de negocio.
+
+
+# holi consoli desde mi pdfoli ramoli
