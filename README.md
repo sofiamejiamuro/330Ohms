@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![](src/img/../assets/img/ohmsLogo.png) 
 
-In the project directory, you can run:
+## Preámbulo
 
-### `yarn start`
+<p>En un mercado cada vez más competitivo, las empresas buscan constantemente nuevas formas de sobresalir y ofrecer un valor agregado a sus consumidores. Para ello, es imprescindible contar con procesos muy bien estructurados, que trabajen óptimamente en cada una de sus etapas para alcanzar mejores resultados de ventas.</p>
+<p>Es con este fin que desarrollamos una webapp que permitiera a la empresa 330 Ohms eficientar sus procesos de cotización y venta de productos.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## User Persona 🙋 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Helena Galván tiene 32 años. 
 
-### `yarn test`
+Es Ingeniera en mecatrónica y es dueña de una tienda de electrónica y Makerspace.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ella se encarga de todo lo relacionado a la administración en el negocio. Sus procesos aún son manuales y por lo tanto limitados, adicionalmente maneja diversas bases de datos y plataformas que le ofrecen servicios externos y le generan un costo. 
 
-### `yarn build`
+## Pains 😣
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+HELENA GALVAN NECESITA MEJORAR EL PROCESO DE CONTROL DE INVENTARIO PARA TRABAJAR CON DATOS CONFIABLES
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+¿COMO LO VAMOS A RESOLVER?
 
-### `yarn eject`
+Construyendo una red blockchain para IoT confiable que le permita agilizar el proceso de inventario utilizando arduinos que registren el peso de sus productos, de esta manera se tendra actualizado en tiempo real y el registro de cualquier cambio.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+-ASI COMO OPTIMIZAR EL SERVICIO DE COTIZACIONES A SUS CLIENTES DE FORMA RAPIDA, SEGURA Y EFICIENTE.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+¿COMO LO VAMOS A RESOLVER?
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Con una base de datos en la nube de IBM Helena podra consultar en cualquier momento y desde cualquier dispositivo la informacion.  A través de la web app 330 Ohms ella podrá generar una cotización rapidamente y enviar por correo el PDF generado con el fin de evitar perder una oportunidad de negocio.

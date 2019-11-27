@@ -8,10 +8,10 @@ import './App.css';
 function App() {
 
   return (
-    <div claasName = "app">
-        <Router basename={window.location.pathname || ""}>
-        <Route path  = "/" component = { MapView }/> 
-        <Route path  = "/qr" component = { LectorQr }/>   
+    <div className = "app">
+        <Router basename={process.env.PUBLIC_URL}>
+          <Route exact path  = "/" component = { MapView }/> 
+          <Route path  = "/LectorQr" component = { LectorQr }/>   
         </Router>
     </div>
   );
